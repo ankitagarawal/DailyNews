@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "news24",
+                "name": "News24"
+            },
+            "author": "AFP",
+            "title": "Langer delivers shock resignation as Australia cricket coach",
+            "description": "Australian men's cricket coach Justin Langer announced his surprise resignation Saturday, just weeks after trouncing archrivals England in a lopsided Ashes series and months after winning the T20 World Cup.",
+            "url": "https://www.news24.com/sport/Cricket/langer-delivers-shock-resignation-as-australia-cricket-coach-20220205",
+            "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/301/3323be7516ad44bca7329459b99ea751.jpg",
+            "publishedAt": "2022-02-05T06:43:06+00:00",
+            "content": "Australian men's cricket coach Justin Langer announced his surprise resignation Saturday, just weeks after trouncing archrivals England in a lopsided Ashes series and months after winning the T20 Wor… [+4081 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Dean Bilton",
+            "title": "Justin Langer was the perfect coach for the Australian cricket team, until the game left him behind",
+            "description": "Justin Langer helped lead Australian cricket out of crisis and into a new generation — one that must now go on without him, writes Dean Bilton.",
+            "url": "http://www.abc.net.au/news/2022-02-05/justin-langer-australia-coach-reign-ends-game-changed/100807728",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/2e67f116b72bf860cad25b3cf7a7ee02?impolicy=wcms_crop_resize&cropH=1688&cropW=3000&xPos=0&yPos=62&width=862&height=485",
+            "publishedAt": "2022-02-05T05:02:18Z",
+            "content": "What comes to mind when you think of Justin Langer?\r\nThere's the modern version  cap backwards and barefoot on the outfield grass, all mindfulness and elite honesty and an arm around every shoulder.\r… [+8884 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "ABC News",
+            "title": "Matthew Hayden slams players, Cricket Australia after Justin Langer's resignation as head coach",
+            "description": "Matthew Hayden leaps to the defence of Justin Langer, saying his former opening partner was let down by the players and Cricket Australia during his tenure as head coach.",
+            "url": "http://www.abc.net.au/news/2022-02-05/cricket-australia-matthew-hayden-defends-justin-langer/100807674",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/79f40f009a4153ffdddd83b1d7996d28?impolicy=wcms_crop_resize&cropH=1688&cropW=3000&xPos=0&yPos=0&width=862&height=485",
+            "publishedAt": "2022-02-05T04:04:10Z",
+            "content": "An emotional Matthew Hayden has taken aim at the national men's cricket team, saying the players showed a lack of support for Justin Langer during the late stages of his coaching tenure.\r\nKey points:… [+6364 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": "BBC Sport",
+            "title": "Langer resigns as Australia coach",
+            "description": "Justin Langer resigns as coach of the Australia men's cricket team, ending months of speculation as to whether he would continue in the role.",
+            "url": "http://www.bbc.co.uk/sport/cricket/60269322",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/AF22/production/_123143844_langer1.jpg",
+            "publishedAt": "2022-02-05T01:22:22.8153615Z",
+            "content": "Justin Langer had been seeking a contract extension\r\nJustin Langer has resigned as coach of the Australia men's cricket team.\r\nThe 51-year-old's contract was going to expire at the end of June and he… [+880 chars]"
+        }
+    ]
+}
